@@ -3,7 +3,7 @@ import { StyleSheet } from "react-native";
 
 
 function PrimaryButton({children}){
-    return; 
+    return 
 }
 
 
