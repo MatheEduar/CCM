@@ -13,7 +13,7 @@ let screen = <StartScreen />
 export default function App() {
   return (
     <LinearGradient
-    colors={[Colors.primaryDark, Colors.primaryLight]}
+    colors={[Colors.primaryDark500, Colors.primaryLight500]}
     style={styles.rootScreen}
     >
       <ImageBackground 
